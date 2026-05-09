@@ -65,7 +65,7 @@ The system relies on FreeRTOS (CMSIS_V2) to manage multiple tasks concurrently w
 
 *(Thay link_den_anh_hoac_gif_cua_ban.gif bằng link ảnh/gif thực tế của bạn nhé)*
 
-![System Demo](link_den_anh_hoac_gif_cua_ban.gif)
+![System Demo](https://drive.google.com/file/d/1iETfAVeJgeTfravqerq-ILJuItLgYplP/view?usp=sharing)
 
 ---
 
