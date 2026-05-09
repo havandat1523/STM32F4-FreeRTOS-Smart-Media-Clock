@@ -1,0 +1,3 @@
+../Core/Src/Flash.c:9:6:Erase_Secter	32	static
+../Core/Src/Flash.c:26:6:Programing	48	static
+../Core/Src/Flash.c:44:6:Read_Flash	32	static

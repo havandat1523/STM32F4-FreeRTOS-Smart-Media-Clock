@@ -1,0 +1,5 @@
+../Core/Src/Led.c:13:6:set1_0	16	static
+../Core/Src/Led.c:27:6:gui_1_led	24	static
+../Core/Src/Led.c:38:6:chot_du_lieu_led	16	static
+../Core/Src/Led.c:44:6:tat_den	16	static,ignoring_inline_asm
+../Core/Src/Led.c:53:6:gui	24	static,ignoring_inline_asm

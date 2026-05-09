@@ -1,0 +1,4 @@
+../Core/Src/RTC.c:23:9:Nhi_BCD	1
+../Core/Src/RTC.c:27:9:BCD_Nhi	1
+../Core/Src/RTC.c:31:6:cau_hinh	1
+../Core/Src/RTC.c:44:6:doc	1
